@@ -1,7 +1,3 @@
-# 💫 About Me:
-I'm currently working on AI & ML<br>Feel free to ask me about AI implementation and automation
-
-
 ## 🌐 Socials:
  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCCjdXFKa_bzIrlwjuZP39YA?sub_confirmation=1) 
 
