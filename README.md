@@ -5,6 +5,9 @@
 [![](https://visitcount.itsvg.in/api?id=Harshit28j&icon=0&color=0)](https://visitcount.itsvg.in)
 # Color-Based AI Radar for Counter-Strike 1.6
 
+[![AI plays Counter strike 1.6](https://img.youtube.com/vi/xhlH04cKRh8/0.jpg)](https://www.youtube.com/watch?v=xhlH04cKRh8)
+
+
 ## Description
 The Color-Based AI Radar is an innovative program designed to enhance your gameplay experience in Counter-Strike 1.6. By leveraging the power of artificial intelligence, this radar system provides real-time visual scanning of the screen, enabling automatic targeting and shooting when certain color criteria are met.
 
