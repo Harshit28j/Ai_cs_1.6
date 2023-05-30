@@ -11,7 +11,10 @@
 ## Description
 The Color-Based AI Radar is an innovative program designed to enhance your gameplay experience in Counter-Strike 1.6. By leveraging the power of artificial intelligence, this radar system provides real-time visual scanning of the screen, enabling automatic targeting and shooting when certain color criteria are met.
 
-### How It Works
+To install the required modules, run the following command:
+
+pip install -r requirements.txt
+
 The AI Radar employs screen reading techniques to analyze the pixels on the screen continuously. It scans each pixel's red (R), green (G), and blue (B) values and compares them to a predefined threshold. If all three color values are below 50, the program recognizes it as a target and automatically initiates a precise shot. This advanced color-based approach ensures accurate identification of specific objects or characters, helping you gain a competitive edge in the game.
 
 ### Key Features
